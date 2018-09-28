@@ -25,9 +25,9 @@ namespace SmartSpiderCore.ExtractRule
 			Formula = formula;
 		}
 
-		public string FormulaName { get; private set; }
+		public string FormulaName { get;  set; }
 
-		public string Formula { get; private set; }
+		public string Formula { get; set; }
 
 	 
 
