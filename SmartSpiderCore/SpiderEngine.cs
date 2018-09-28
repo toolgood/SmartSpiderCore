@@ -22,6 +22,7 @@ namespace SmartSpiderCore
 
     XmlInclude(typeof(ComplexField)),
     XmlInclude(typeof(RegexNavigationRule)),
+    XmlInclude(typeof(ExcelRule)),
 
     XmlInclude(typeof(SqlServerOutput)), XmlInclude(typeof(CsvOutput)), XmlInclude(typeof(SOHOutput)),
     ]
